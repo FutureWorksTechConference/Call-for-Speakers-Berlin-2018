@@ -5,7 +5,7 @@
 - Submit Talk Proposal as a Github Gist (https://gist.github.com/).
 - Hashtag it with #LandingFestival and #CallForSpeakers, then share it on your social networks and link/mention the LandingFestival Page on the social network you’ve chosen to share(Facebook, Twitter, Medium). We want our Festival to be a content and community Festival, help us achieve that!
 - Proposals without the hashtags will be discarded.
-- 
+- Others can vote by starring the Gist.
 
 ### Rules of the Game
 
@@ -27,7 +27,7 @@ The 3 winners will get a free trip and 2 night accommodation for two people to t
  - 14th and 15th March 2018
 
 
-Others can vote by starring the Gist.
+
 Top 5 submissions are selected to do a ½ mins video pitching his talk, voting through YouTube Likes will select the Top 3.
 If you’re in the Top 3, well done, you’ll speak at the Festival!
 
