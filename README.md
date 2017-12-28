@@ -19,7 +19,7 @@ The proposal should include:
 - Your favourite Matrix quote;
 - Country and City of residence, together with a small paragraph about you.
 
-### Rules of the Game
+### Rules of the Game:
 
 1. The themes of the proposals must be tech related, and fit within one of this tracks:
 - __Tech__ - *Deep dive into existing technologies and projects. Hear stories of challenges and success.*
