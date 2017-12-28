@@ -32,3 +32,5 @@ The proposal should include:
 6. Then the voting period on our Landing Festival YouTube page will go from the 24th of January to the 31st of January.
 7. The Top 5 proposals win a free Acess Ticket for the [Landing Festival](https://landingfestival.com/berlin).
 8. The 3 winners will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/berlin), so they can present their talk either on the 14th or the 15th of March, 2018.
+
+<p align="center">Ready to be unplugged? See the Future of Tech Careers.</p>
