@@ -6,7 +6,7 @@
 - Hashtag it with __#LandingFestival__ and __#CallForSpeakers__, then share it on your social networks ([Facebook](https://www.facebook.com/LandingFestivalPage/), [Twitter](https://twitter.com/LandingFest), [Medium](https://medium.com/landingfestival)) linking the Landing Festival Page on the chosen network/s
 - Others can vote by starring the *Gist*.
 - After sharing your competition entree in your social networks, please fill this [Typeform](https://landingjobs.typeform.com/to/URjRZE) with your name, email and the link of your share.
-- Proposals without the hashtags will be discarded.
+- Shares without the hashtags will be discarded.
 - __Top 5__ starred proposals are selected to send us a 1 minute video pitching their talk.
 - We'll update the videos on [YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) and the __Top 3__ videos with more likes will win the opportunity to speak at the [Landing Festival Berlin 2018](https://landingfestival.com/berlin).
 
