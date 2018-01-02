@@ -31,7 +31,7 @@
 5. Top 5 should send us their pitching videos between the **18th and the 22nd of January**.
 6. Then the voting period on our [Landing Festival YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) page will go from the **24th of January to the 31st of January**.
 7. The Top 5 proposals win a free Acess Ticket for the [Landing Festival](https://landingfestival.com/berlin).
-8. The 3 winners will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/berlin), so they can present their talk either on the 14th or the 15th of March, 2018.
+8. The 2 winners will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/berlin), so they can present their talk either on the 14th or the 15th of March, 2018.
 
 
 <p align="center"> <b>Ready to be unplugged?</b> See the Future of Tech Careers. </p>
