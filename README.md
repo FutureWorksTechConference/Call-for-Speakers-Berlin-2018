@@ -8,7 +8,7 @@
 - After sharing your competition entree in your social networks, please fill this [Typeform](https://landingjobs.typeform.com/to/URjRZE) with your name, email and the link of your share.
 - Shares without the hashtags will be discarded.
 - __Top 5__ starred proposals are selected to send us a 1 minute video pitching their talk.
-- We'll update the videos on [YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) and the __Top 3__ videos with more likes will win the opportunity to speak at the [Landing Festival Berlin 2018](https://landingfestival.com/berlin).
+- We'll update the videos on [YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) and the __Top 2__ videos with more likes will win the opportunity to speak at the [Landing Festival Berlin 2018](https://landingfestival.com/berlin).
 
 ### What should the proposal include?
 
