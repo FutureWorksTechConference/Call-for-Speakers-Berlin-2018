@@ -1,4 +1,4 @@
-## Landing Festival Berlin Call For Speakers Competition
+## Landing Festival Berlin 2018 - Call For Speakers Competition
 
 ### How do I apply?
 
