@@ -27,9 +27,9 @@
 - __Careers__ - *The search for continuous self-improvement, one geeky conversation at a time. Up your game to the next level, exit the Matrix.*
 2. The maximum length for a talk is 30 mins. Proposals that don’t fit the tracks will be discarded.
 3. This competition is for *EU residents only*. If you leave outside the EU, follow us and keep posted for next events near your country of residence.
-4. The Call for Speakers will start on **January 3rd** and the Top 5 for the 2nd Stage will be selected on the **17th of January**.
-5. Top 5 should send us their pitching videos between the **18th and the 22nd of January**.
-6. Then the voting period on our [Landing Festival YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) page will go from the **24th of January to the 31st of January**.
+4. The Call for Speakers will start on **January 3rd** and the Top 5 for the 2nd Stage will be selected on the **23th of January**.
+5. Top 5 should send us their pitching videos between the **23th and the 25nd of January**.
+6. Then the voting period on our [Landing Festival YouTube](https://www.youtube.com/channel/UCjGI4o68Sd414pKDF_XM-qg) page will go from the **26th of January to the 31st of January**.
 7. The Top 5 proposals win a free Access Ticket for the [Landing Festival](https://landingfestival.com/berlin).
 8. The 2 winners will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/berlin), so they can present their talk either on the 14th or the 15th of March, 2018.
 
