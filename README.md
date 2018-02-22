@@ -1,3 +1,5 @@
+# Competition is now closed. Check our [speakers page](https://landingfestival.com/berlin/talks) including the two winners Diogo Rendeiro and Florian Auer! 
+
 ## Landing Festival Berlin 2018 - Call For Speakers Competition
 
 ### How do I apply?
